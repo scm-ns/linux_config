@@ -1,0 +1,12 @@
+keymap H	BACK
+keymap L	SELECT_MENU
+keymap K	PREV_PAGE
+keymap J	NEXT_PAGE
+
+keymap B	SELECT_MENU
+
+keymap K	PREV_PAGE
+keymap k	MOVE_UP
+keymap j	MOVE_DOWN
+keymap l	MOVE_RIGHT
+keymap h	MOVE_LEFT
