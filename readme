@@ -5,3 +5,4 @@ put the keymap file in the .w3m folder to get the keyboard config
 vim has local settings and global settings. See which settings the instance of vim you are running is using and put the file in the required position. 
 
 
+git@github.com:scm-ns/linux_config.git

@@ -1,0 +1,60 @@
+127.0.0.1	localhost
+#127.0.0.1	www.reddit.com
+127.0.0.1	m.reddit.com
+127.0.0.1       www.amazon.com
+127.0.0.1	www.bbc.com
+#127.0.0.1	www.youtube.com
+127.0.0.1	duckduckgo.com
+127.0.0.1	www.duckduckgo.com
+#127.0.0.1	www.google.com
+127.0.1.1	scm197-ThinkPad-P50
+127.0.0.1       www.putlocker.is   
+127.0.0.1       putlocker.is 
+127.0.0.1       www.washingtonpost.com
+127.0.0.1       www.newyorkpost.com
+127.0.0.1       www.animefreak.tv
+127.0.0.1       www.nypost.com
+127.0.0.1       www.bloomberg.com
+127.0.0.1       www.reason.com
+#127.0.0.1       www.facebook.com
+127.0.0.1       www.twitter.com
+127.0.0.1       www.cnn.com
+127.0.0.1       www.nytimes.com
+127.0.0.1       www.yahoo.com
+127.0.0.1       www.theguardian.com 
+127.0.0.1       www.businessinsider.com
+127.0.0.1       www.forbes.com
+127.0.0.1       www.vice.com
+127.0.0.1       www.dailymail.co.uk
+127.0.0.1       www.huffingtonpost.com
+127.0.0.1       www.live.huffingtonpost.com
+127.0.0.1       www.urbandictionary.com
+127.0.0.1       www.abcnews.go.com
+127.0.0.1       www.foxnews.com
+127.0.0.1       www.theatlantic.com
+127.0.0.1       www.watchfree.to
+127.0.0.1       www.boston.com 
+127.0.0.1       www.salon.com   
+127.0.0.1       theweek.com
+127.0.0.1       www.crunchyroll.com  
+127.0.0.1       www.imdb.com
+127.0.0.1       abcmalayalam.com
+127.0.0.1       fortune.com
+127.0.0.1       www.duckduckgo.com
+#127.0.0.1       www.quora.com
+127.0.0.1 	twitter.com
+127.0.0.1 	123movies.to
+127.0.0.1 	123movies.is
+127.0.0.1 	123movies.ru
+127.0.0.1	www.wsj.com
+127.0.0.1	wsj.com
+127.0.0.1 	9anime.to
+
+
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
